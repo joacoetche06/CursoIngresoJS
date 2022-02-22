@@ -4,6 +4,8 @@ y lo muestro por 'ID' al presionar el botón 'mostrar'
 */
 function mostrar()
 {
-	alert("ok");
+	nombre = prompt()
+	txtIdNombre.value = nombre
 }
 
+// Joaquin Etchegaray, Division B, Ej 4 E/S //

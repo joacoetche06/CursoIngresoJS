@@ -5,8 +5,9 @@ function mostrar()
 {
 	var nombreIngresado;
 	nombreIngresado=txtIdNombre.value;
-	alert("ok");
+	alert(nombreIngresado);
 
 }
 
 
+// Joaquin Etchegaray, Division B, Ej 3 E/S //
